@@ -1,3 +1,3 @@
 # Eduktif
 
-Sebuah sistem Edukasi Otomotif yang ditujukan untuk siswa SMK jurusan otomotif.
+Sebuah sistem Edukasi Otomotif berbasis web yang ditujukan untuk siswa SMK jurusan otomotif.
